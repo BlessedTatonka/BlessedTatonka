@@ -20,9 +20,11 @@ Welcome to my GitHub profile! Here you can find an overview of my achievements a
 
 ---
 
-Feel free to explore my repositories and projects to see the details of my work. Stay tuned for updates and new achievements!
+My huggingface: *https://huggingface.co/TatonkaHF*.
 
+Mail me: *btmalashenko@edu.hse.ru* or *quelquemath@gmail.com*.
 
+Telegram: *@btmalov*.
 
 
 <!--
