@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here you can find an overview of my achievements a
 ## 2024
 
 - **USER**: **U**niversal **S**entence **E**ncoder for **R**ussian ⭐️
-  - "ИМШ" (Engeneering and Mathematics School by VK and HSE) project.
+  - "ИМШ" (Engeneering and Mathematics School by VK and HSE) project; [diploma](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Universal%20Sentence%20Encoder%20for%20Russian/files/imsh_diploma.jpg).
   - Masters diploma, marked 8/10; [text](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Universal%20Sentence%20Encoder%20for%20Russian/files/ВКР_USER.pdf); [presentation](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Universal%20Sentence%20Encoder%20for%20Russian/files/ВКР_%20USER_presentation.pdf).
   - ISSCAI Conference poster session; [poster](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Universal%20Sentence%20Encoder%20for%20Russian/files/ISSCAI_USER_poster.jpg); [certificate](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Universal%20Sentence%20Encoder%20for%20Russian/files/ISSCAI_certificate.jpg).
   - **Results**:
