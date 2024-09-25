@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! Here you can find an overview of my achievements and projects.
+I currently work at deepvk, but I am ready to collaborate on interesting projects, preferably in NLP.
 
 ## EDUCATION
 
