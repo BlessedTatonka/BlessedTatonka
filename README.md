@@ -29,6 +29,19 @@ I currently work at deepvk, but I am ready to collaborate on interesting project
 
 - **Pruned/shrinked** bge-m3 model ⭐️ [[model]](https://huggingface.co/TatonkaHF/bge-m3_en_ru) [[code]](https://github.com/BlessedTatonka/Pet-Projects/tree/main/huggingface/bge-m3-shrinking).
 
+### 2025
+
+**(Projects)**
+
+- **RuModernBert** [[models]](https://huggingface.co/collections/deepvk/rumodernbert-67b5e82fbc707d7ed3857743)
+- **USER2** [[models]](https://huggingface.co/collections/deepvk/user2-6802650d7210f222ec60e05f)
+
+**(Conferences)**
+
+- **IDOConf** "Text-Level Distillation: How to Build Small but Powerful Sentence Encoders". [[thesis]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Conferences/IDOConf%202025/Тезис.docx) [[presentation]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Conferences/IDOConf%202025/Презентация.pdf) [[certificate]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Conferences/IDOConf%202025/Сертификат.pdf)
+- **КМУ** "Большие языковые модели для работы с векторной графикой" [[thesis]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Conferences/КМУ%202025/Тезис_Малашенко%20Б.Т.pdf) [[presentation]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Conferences/КМУ%202025/Презентация.pdf) [[certificate]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Conferences/КМУ%202025/Сертификат.pdf)
+- **AINL** "Leveraging Large Language Models for Scalable Vector Graphics Processing: a Review" [[paper]](https://arxiv.org/abs/2503.04983)
+
 ---
 
 # PROFESSIONAL SKILLS
