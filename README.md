@@ -1,83 +1,63 @@
 # Hi there 👋
 
-I currently work at deepvk, but I am ready to collaborate on interesting projects, preferably in NLP.
+I'm currently at **DeepVK**, specializing in Natural Language Processing (NLP) and actively seeking exciting collaboration opportunities!
 
-## EDUCATION
+## 🎓 Education
 
-- (2018-2022) Bachelor of Software Engineering, HSE.
-- (2022-2024) Master of Machine Learning and Data Analysys, HSE.
-- (2024-...) Pursuing PhD of Artificial Intelligence, ITMO University.
+* **PhD in Artificial Intelligence**, ITMO University *(2024–Present)*
+* **Master of Machine Learning and Data Analysis**, HSE *(2022–2024)*
+* **Bachelor of Software Engineering**, HSE *(2018–2022)*
 
-## WORK
-- (2023-2025) Laboratory assistant, VK Lab.
+## 💻 Professional Experience
 
-## PROJECTS
+* **Laboratory Assistant**, VK Lab *(2023–2025)* - NLP, research, sentence encoders.
+* **NLP Consultant**, NDA (Outsourced Project, 2025) - developed and trained a classifier model for industry application.
+
+## 🚀 Featured Projects
 
 ### 2023
 
-- *2023 Coursework:* **Simultaneous Determination of Ethnicity and Toxicity in Texts** [[code]](https://github.com/BlessedTatonka/ethnicity_and_toxicity/tree/main)
+* **Simultaneous Determination of Ethnicity and Toxicity in Texts** [\[Code\]](https://github.com/BlessedTatonka/ethnicity_and_toxicity/tree/main)
 
 ### 2024
-  
-- **Russian joke generation model** [[model]](https://huggingface.co/TatonkaHF/ruDialoGpt3-medium-finetuned-russian-joke) [[code]](https://github.com/BlessedTatonka/russian_joke_generation/tree/main)
-- **USER**: **U**niversal **S**entence **E**ncoder for **R**ussian ⭐️
-  - "ИМШ" (Engeneering and Mathematics School by VK and HSE) project; [[diploma]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Universal%20Sentence%20Encoder%20for%20Russian/files/imsh_diploma.jpg).
-  - Masters diploma, marked 8/10; [[text]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Universal%20Sentence%20Encoder%20for%20Russian/files/ВКР_USER.pdf); [[presentation]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Universal%20Sentence%20Encoder%20for%20Russian/files/ВКР_%20USER_presentation.pdf).
-  - ISSCAI Conference poster session; [[poster]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Universal%20Sentence%20Encoder%20for%20Russian/files/ISSCAI_USER_poster.jpg); [[certificate]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Universal%20Sentence%20Encoder%20for%20Russian/files/ISSCAI_certificate.jpg).
-  - **Results**:
-    - [ru-HNP](https://huggingface.co/datasets/deepvk/ru-HNP) dataset.
-    - [ru-WANLI](https://huggingface.co/datasets/deepvk/ru-WANLI) dataset.
-    - [USER-base](https://huggingface.co/deepvk/USER-base) model, SOTA of base size on encodechka benchmark.
-    - [USER-bge-m3](https://huggingface.co/deepvk/USER-bge-m3) model, SOTA  on encodechka benchmark.
 
-- **Pruned/shrinked** bge-m3 model ⭐️ [[model]](https://huggingface.co/TatonkaHF/bge-m3_en_ru) [[code]](https://github.com/BlessedTatonka/Pet-Projects/tree/main/huggingface/bge-m3-shrinking).
+* **Russian Joke Generation Model** [\[Model\]](https://huggingface.co/TatonkaHF/ruDialoGpt3-medium-finetuned-russian-joke) | [\[Code\]](https://github.com/BlessedTatonka/russian_joke_generation/tree/main)
+
+* **USER: Universal Sentence Encoder for Russian**
+
+  * Master's Diploma Project (graded 8/10) [\[Diploma Text\]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Universal%20Sentence%20Encoder%20for%20Russian/files/ВКР_USER.pdf) | [\[Presentation\]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Universal%20Sentence%20Encoder%20for%20Russian/files/ВКР_%20USER_presentation.pdf)
+  * ISSCAI Conference Poster [\[Poster\]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Universal%20Sentence%20Encoder%20for%20Russian/files/ISSCAI_USER_poster.jpg) | [\[Certificate\]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Universal%20Sentence%20Encoder%20for%20Russian/files/ISSCAI_certificate.jpg)
+  * **Achievements:**
+
+    * SOTA results on the Encodechka benchmark
+    * Developed datasets: [ru-HNP](https://huggingface.co/datasets/deepvk/ru-HNP), [ru-WANLI](https://huggingface.co/datasets/deepvk/ru-WANLI)
+    * Published models: [USER-base](https://huggingface.co/deepvk/USER-base), [USER-bge-m3](https://huggingface.co/deepvk/USER-bge-m3)
+
+* **Pruned/shrinked bge-m3 model** [\[Model\]](https://huggingface.co/TatonkaHF/bge-m3_en_ru) | [\[Code\]](https://github.com/BlessedTatonka/Pet-Projects/tree/main/huggingface/bge-m3-shrinking)
 
 ### 2025
 
-**(Projects)**
+* **RuModernBert** [\[Models\]](https://huggingface.co/collections/deepvk/rumodernbert-67b5e82fbc707d7ed3857743)
+* **USER2** [\[Models\]](https://huggingface.co/collections/deepvk/user2-6802650d7210f222ec60e05f)
 
-- **RuModernBert** [[models]](https://huggingface.co/collections/deepvk/rumodernbert-67b5e82fbc707d7ed3857743)
-- **USER2** [[models]](https://huggingface.co/collections/deepvk/user2-6802650d7210f222ec60e05f)
+**🎤 Conferences:**
 
-**(Conferences)**
+* **IDOConf**: *"Text-Level Distillation: How to Build Small but Powerful Sentence Encoders"* [\[Thesis\]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Conferences/IDOConf%202025/Тезис.docx) | [\[Presentation\]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Conferences/IDOConf%202025/Презентация.pdf)
+* **КМУ**: *"Большие языковые модели для работы с векторной графикой"* [\[Thesis\]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Conferences/КМУ%202025/Тезис_Малашенко%20Б.Т.pdf) | [\[Presentation\]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Conferences/КМУ%202025/Презентация.pdf)
+* **AINL**: *"Leveraging Large Language Models for Scalable Vector Graphics Processing: A Review"* [\[Paper\]](https://arxiv.org/abs/2503.04983)
 
-- **IDOConf** "Text-Level Distillation: How to Build Small but Powerful Sentence Encoders". [[thesis]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Conferences/IDOConf%202025/Тезис.docx) [[presentation]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Conferences/IDOConf%202025/Презентация.pdf) [[certificate]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Conferences/IDOConf%202025/Сертификат.pdf)
-- **КМУ** "Большие языковые модели для работы с векторной графикой" [[thesis]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Conferences/КМУ%202025/Тезис_Малашенко%20Б.Т.pdf) [[presentation]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Conferences/КМУ%202025/Презентация.pdf) [[certificate]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Conferences/КМУ%202025/Сертификат.pdf)
-- **AINL** "Leveraging Large Language Models for Scalable Vector Graphics Processing: a Review" [[paper]](https://arxiv.org/abs/2503.04983)
+## 🛠 Skills
 
----
+* Python, PyTorch, Transformers
+* Basic SQL, Git
+* English: B2 (Upper-Intermediate)
 
-# PROFESSIONAL SKILLS
+## 🌱 Community Involvement
 
-- Proficient in Python and fundamental data handling libraries, PyTorch, Transformers.
-- Basics of SQL
-- Version control with GIT
-- English (B2 level)
+* Teaching Assistant for the course *"Software Engineering"*
 
-# COMMUNITY ENGAGEMENT AND LEADERSHIP
+## 📫 Let's Connect!
 
-- Teaching Assistant in "Software Design" course.
-
-# CONTACTS
-
-My huggingface: *https://huggingface.co/TatonkaHF*.
-
-Mail me: *btmalashenko@itmo.ru* or *quelquemath@gmail.com*.
-
-Telegram: *@btmalov*.
-
-
-<!--
-**BlessedTatonka/BlessedTatonka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HuggingFace: [TatonkaHF](https://huggingface.co/TatonkaHF)
+* Email: [btmalashenko@itmo.ru](mailto:btmalashenko@itmo.ru) | [quelquemath@gmail.com](mailto:quelquemath@gmail.com)
+* Telegram: [@btmalov](https://t.me/btmalov)
