@@ -8,6 +8,9 @@ I currently work at deepvk, but I am ready to collaborate on interesting project
 - (2022-2024) Master of Machine Learning and Data Analysys, HSE.
 - (2024-...) Pursuing PhD of Artificial Intelligence, ITMO University.
 
+## WORK
+- (2023-2025) Laboratory assistant, VK Lab.
+
 ## PROJECTS
 
 ### 2023
@@ -59,7 +62,7 @@ I currently work at deepvk, but I am ready to collaborate on interesting project
 
 My huggingface: *https://huggingface.co/TatonkaHF*.
 
-Mail me: *btmalashenko@edu.hse.ru* or *quelquemath@gmail.com*.
+Mail me: *btmalashenko@itmo.ru* or *quelquemath@gmail.com*.
 
 Telegram: *@btmalov*.
 
