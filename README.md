@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm currently at **DeepVK**, specializing in Natural Language Processing (NLP) and actively seeking exciting collaboration opportunities!
+I'm specializing in Natural Language Processing (NLP) and actively seeking exciting collaboration opportunities!
 
 ## 🎓 Education
 
