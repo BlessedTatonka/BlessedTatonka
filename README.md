@@ -37,8 +37,10 @@ I'm specializing in Natural Language Processing (NLP) and actively seeking excit
 
 ### 2025
 
-* **RuModernBert** [\[Models\]](https://huggingface.co/collections/deepvk/rumodernbert-67b5e82fbc707d7ed3857743)
-* **USER2** [\[Models\]](https://huggingface.co/collections/deepvk/user2-6802650d7210f222ec60e05f)
+* **RuModernBert** [\[Models\]](https://huggingface.co/collections/deepvk/rumodernbert-67b5e82fbc707d7ed3857743)[\[Post on Habr\](https://habr.com/ru/amp/publications/930382/)
+* **USER2** [\[Models\]](https://huggingface.co/collections/deepvk/user2-6802650d7210f222ec60e05f)[\[Post on Habr\](https://habr.com/ru/amp/publications/930382/)
+
+
 
 **🎤 Conferences:**
 
