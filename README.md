@@ -41,12 +41,12 @@ I'm specializing in Natural Language Processing (NLP) and actively seeking excit
 * **USER2** [\[Models\]](https://huggingface.co/collections/deepvk/user2-6802650d7210f222ec60e05f)[\[Post on Habr\]](https://habr.com/ru/amp/publications/930382/)
 
 
-
 **🎤 Conferences:**
 
 * **IDOConf**: *"Text-Level Distillation: How to Build Small but Powerful Sentence Encoders"* [\[Thesis\]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Conferences/IDOConf%202025/Тезис.docx) | [\[Presentation\]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Conferences/IDOConf%202025/Презентация.pdf)
 * **КМУ**: *"Большие языковые модели для работы с векторной графикой"* [\[Thesis\]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Conferences/КМУ%202025/Тезис_Малашенко%20Б.Т.pdf) | [\[Presentation\]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Conferences/КМУ%202025/Презентация.pdf)
 * **AINL**: *"Leveraging Large Language Models for Scalable Vector Graphics Processing: A Review"* [\[Paper\]](https://arxiv.org/abs/2503.04983)
+* **Datafest**: "RuModernBert и USER2: Эволюция русскоязычных энкодеров" [\[Presentation\]](https://github.com/BlessedTatonka/Pet-Projects/blob/main/Conferences/Datafest_2025/4_Малашенко_RuModernBERT_и_USERv2_эволюция%20русскоязычных_энкодеров.pdf)[\[Recording\]](https://www.youtube.com/watch?app=desktop&v=K9q4HS6wq3g)
 
 ## 🛠 Skills
 
